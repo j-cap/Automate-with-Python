@@ -1,0 +1,2 @@
+@C:\Users\jakob\anaconda3\python.exe C:\Users\jakob\Documents\Coding\Projects\AutomateTheBoringStuffWithPython\Chapter6\myclip.py %*
+@pause
